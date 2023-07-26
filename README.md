@@ -9,3 +9,27 @@ Construção de 4 Projetos Completos de Análise de Dados, Automação, Criaçã
 * **Projeto 2** - Automação de tarefas
 * **Projeto 3** - Inteligência artificial e previsões
 * **Projeto 4** - Criação de sites e sistemas com Python
+
+### Projeto 1 : Python Insights
+* Análise e tratamentos de dados
+* Tabelas (DataFrames)
+* Gráficos em Python
+* Tirar insights valiosos
+
+### Projeto 2 : Python Power Up
+* Automação de tarefas
+* Criação de bots
+* Economizar horas de trabalho
+* RPA e web-scraping
+
+### Projeto 3 - Python IA
+* Inteligência Artificial
+* Projeto Completo de Previsão
+* Ciência de dados
+* Criação e análise de modelos
+
+### Projeto 4 - Python DEV
+* Criação de sites e sistemas
+* Frameworks Python
+* Desenvolvimento de um chat
+* Frontend e backend
