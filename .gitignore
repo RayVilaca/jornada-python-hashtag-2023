@@ -163,6 +163,3 @@ cython_debug/
 # csv and pdf
 **/*.csv
 **/*.pdf
-
-# img
-**/img/
